@@ -1,5 +1,5 @@
 ## EX.NO: 09 <br>
-## DATE:
+## DATE: 26-05-2022
 ## <p align="center">THRESHOLDING</p>
 
 ## Aim:
