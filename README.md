@@ -1,8 +1,13 @@
-# Thresholding
-## AIM:
+## EX.NO: 09 <br>
+## DATE:
+## <p align="center">THRESHOLDING</p>
+
+## Aim:
+
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ## SOFTWARE REQUIRED:
+
 1. Anaconda - Python 3.7
 2. OpenCV
 
